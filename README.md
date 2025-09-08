@@ -1,6 +1,23 @@
-## Hi, I'm Laura!✨
+# 🌼 Hey, I'm Laura!
 
-About me:
-- 💻 I'm a Software Engineering student
-- 📝 Front-end | JavaScript | CSS | HTML | UI/UX Design 
-- 🏁 A motorsport enthusiast determined to work in this area one day
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRsM2R1MDRscjV5Mm5oc2t6Y3A4aXVkbXdtZHR0eTA5Z29vbTVhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="250" align="right"/>
+
+### About me:
+- 🎓 I'm a **Software Engineering student**  
+- 💻 Passionate about building beautiful and functional web apps  
+- 🎨 Love mixing **code + design** to create intuitive experiences  
+- 📝 Exploring the world of **Front-end Development** with:  
+  - JavaScript • TypeScript • Next.js • React • HTML • CSS • UI/UX Design  
+- 🏁 A proud **motorsport enthusiast** dreaming of merging tech with racing one day 🏎️💨  
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,next,react,js,html,css,figma,git" />
+</p>
+
+---
+
+<a href="www.linkedin.com/in/lauraserbeto"><img src="https://img.shields.io/badge/-LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
