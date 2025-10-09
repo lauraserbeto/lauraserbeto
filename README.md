@@ -12,9 +12,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stacks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,next,react,js,html,css,figma,git" />
+  <img src="https://skillicons.dev/icons?i=ts,next,react,js,html,css,figma,git,vscode,sass,tailwind" />
 </p>
 
 ---
