@@ -7,7 +7,7 @@
 - 💻 Passionate about building beautiful and functional web apps  
 - 🎨 Love mixing **code + design** to create intuitive experiences  
 - 📝 Exploring the world of **Front-end Development** with:  
-  - JavaScript • TypeScript • Next.js • React • HTML • CSS • UI/UX Design  
+  - TypeScript • Next.js • React Native • CSS • UI/UX Design  
 - 🏁 A proud **motorsport enthusiast** dreaming of merging tech with racing one day 🏎️💨  
 
 ---
