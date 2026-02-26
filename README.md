@@ -8,7 +8,6 @@
 - 🎨 Love mixing **code + design** to create intuitive experiences  
 - 📝 Exploring the world of **Front-end Development** with:  
   - TypeScript • Next.js • React Native • CSS • UI/UX Design  
-- 🏁 A proud **motorsport enthusiast** dreaming of merging tech with racing one day 🏎️💨  
 
 ---
 
