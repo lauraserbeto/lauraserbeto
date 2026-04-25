@@ -15,7 +15,7 @@ While my foundation lies solidly in the front-end, I am continuously expanding m
 
 ### ✦ Tech Stack & Tools
 
-<img src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" align="right" width="400" alt="Aesthetic GIF 1"/>
+<img src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" align="right" width="300" alt="Aesthetic GIF 1"/>
 
 
 **Frontend & Design**
