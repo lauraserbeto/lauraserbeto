@@ -1,22 +1,57 @@
-# 🌼 Hey, I'm Laura!
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/244ff790-6349-48b6-9204-1e7f9d8fafdd" alt="Laura Serbêto" width="100%" />
+</div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRsM2R1MDRscjV5Mm5oc2t6Y3A4aXVkbXdtZHR0eTA5Z29vbTVhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="250" align="right"/>
+<br/>
 
-### About me:
-- 🎓 I'm a **Software Engineering student**  
-- 💻 Passionate about building beautiful and functional web apps  
-- 🎨 Love mixing **code + design** to create intuitive experiences  
-- 📝 Exploring the world of **Front-end Development** with:  
-  - TypeScript • Next.js • React Native • CSS • UI/UX Design  
+### ✦ A little about me
 
----
+<img src="https://i.pinimg.com/originals/65/c2/e7/65c2e7e59294d7521fca1f7a62495d89.gif" align="right" width="180" alt="Aesthetic GIF 1"/>
 
-### 🛠️ Stacks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,next,react,js,html,css,figma,git,vscode,sass,tailwind" />
-</p>
+I'm a 6th-period Software Engineering student from Brazil, currently working as a Front-end Developer. I have a deep passion for UI/UX and consider myself a strongly design-driven developer. For me, the most rewarding part of development is taking a premium prototype and translating it into a pixel-perfect, interactive reality, ensuring smooth interfaces and an exceptional user experience.
+
+While my foundation lies solidly in the front-end, I am continuously expanding my skill set to build complete, end-to-end architectures. I am currently diving into the back-end ecosystem—exploring technologies like Node.js, Prisma, and PostgreSQL—to gradually evolve into a full-stack developer.
 
 ---
 
-<a href="www.linkedin.com/in/lauraserbeto"><img src="https://img.shields.io/badge/-LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### ✦ Tech Stack & Tools
+
+
+
+**Frontend & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,sass,css,html,figma" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+
+**Tools & Hosting**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,vercel,railway" />
+
+---
+
+### ✦ GitHub Stats
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lauraserbeto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Laura's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraserbeto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+</div>
+
+---
+
+
+### ✦ Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lauraserbeto" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f612f3dd-a28a-4763-b89c-4f239a97d31e" alt="LinkedInBt" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:laura.serbeto.dev@gmail.com">
+    <img src="https://github.com/user-attachments/assets/67150f68-bc13-4f6e-8aaa-211ea0df91cf" alt="GmailBt" height="35" />
+  </a>
+</div>
 
