@@ -6,7 +6,6 @@
 
 ### ✦ A little about me
 
-<img src="https://i.pinimg.com/originals/65/c2/e7/65c2e7e59294d7521fca1f7a62495d89.gif" align="right" width="180" alt="Aesthetic GIF 1"/>
 
 I'm a 6th-period Software Engineering student from Brazil, currently working as a Front-end Developer. I have a deep passion for UI/UX and consider myself a strongly design-driven developer. For me, the most rewarding part of development is taking a premium prototype and translating it into a pixel-perfect, interactive reality, ensuring smooth interfaces and an exceptional user experience.
 
@@ -16,6 +15,7 @@ While my foundation lies solidly in the front-end, I am continuously expanding m
 
 ### ✦ Tech Stack & Tools
 
+<img src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" align="right" width="400" alt="Aesthetic GIF 1"/>
 
 
 **Frontend & Design**
@@ -50,8 +50,9 @@ While my foundation lies solidly in the front-end, I am continuously expanding m
     <img src="https://github.com/user-attachments/assets/f612f3dd-a28a-4763-b89c-4f239a97d31e" alt="LinkedInBt" height="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:laura.serbeto.dev@gmail.com">
+  <a href="mailto:dev.lauraserbeto@gmail.com@gmail.com">
     <img src="https://github.com/user-attachments/assets/67150f68-bc13-4f6e-8aaa-211ea0df91cf" alt="GmailBt" height="35" />
   </a>
 </div>
+
 
