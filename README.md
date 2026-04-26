@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/244ff790-6349-48b6-9204-1e7f9d8fafdd" alt="Laura Serbêto" width="100%" />
+  <img src="https://github.com/user-attachments/assets/c708f40a-2546-4b6f-b36c-cfba5f86f485" alt="Laura Serbêto" width="100%" />
+
 </div>
 
 <br/>
