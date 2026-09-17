@@ -11,7 +11,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Brazil-EC4899?style=flat" alt="Based in Brazil" />
   &nbsp;
-  <a href="https://portifolio-lauraserbeto.vercel.app/">
+  <a href="https://www.lauraserbeto.com.br/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-EC4899?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
