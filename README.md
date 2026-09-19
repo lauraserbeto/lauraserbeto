@@ -20,7 +20,7 @@
 
 ### ✦ A little about me
 
-I'm a 6th-period Software Engineering student from Brazil, currently working as a Front-end Developer. I have a deep passion for UI/UX and consider myself a strongly design-driven developer. For me, the most rewarding part of development is taking a premium prototype and translating it into a pixel-perfect, interactive reality, ensuring smooth interfaces and an exceptional user experience.
+I'm a 7th-period Software Engineering student from Brazil, currently working as a Systems Development Analyst. I have a deep passion for UI/UX and consider myself a strongly design-driven developer. For me, the most rewarding part of development is taking a premium prototype and translating it into a pixel-perfect, interactive reality, ensuring smooth interfaces and an exceptional user experience.
 
 While my foundation lies solidly in the front-end, I am continuously expanding my skill set to build complete, end-to-end architectures. I am currently diving into the back-end ecosystem—exploring technologies like Node.js, Prisma, and PostgreSQL—to gradually evolve into a full-stack developer.
 
